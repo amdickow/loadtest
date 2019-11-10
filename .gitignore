@@ -1,7 +1,7 @@
 # Mac OS X files
 .DS_Store
 
-/build
+/target
 
 # Binaries for programs and plugins
 *.exe
